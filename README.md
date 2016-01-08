@@ -92,10 +92,11 @@ Versions
 This module was previously named **xDisk**, the version is regressing to a ".1" release with the addition of xMountImage.
 
 ### Unreleased 
- ### 2.11.0.0 
+
 * Test description
 
 ### 2.3.0.0
+
 * Added support for `AllocationUnitSize` in `xDisk`.
 
 ### 2.2.0.0
